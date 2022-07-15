@@ -10,4 +10,6 @@
 
 5. Data Visualization with Python(Clarusway)
 
-6. 
+6. Data Analysis with SQL(Clarusway)
+
+7. 
