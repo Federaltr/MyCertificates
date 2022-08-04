@@ -12,4 +12,4 @@
 
 6. Data Analysis with SQL(Clarusway)
 
-7. 
+7. Tableau(Clarusway)
