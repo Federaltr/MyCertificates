@@ -13,3 +13,7 @@
 6. Data Analysis with SQL(Clarusway)
 
 7. Tableau(Clarusway)
+
+8. Statistics(Clarusway)
+
+9. Data Analytics Module(Clarusway)
