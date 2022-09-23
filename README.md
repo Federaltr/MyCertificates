@@ -17,3 +17,7 @@
 8. Statistics(Clarusway)
 
 9. Data Analytics Module(Clarusway)
+
+10. Machine Learning(Clarusway)
+
+11.
