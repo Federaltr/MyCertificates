@@ -20,4 +20,6 @@
 
 10. Machine Learning(Clarusway)
 
-11.
+11. Machine Learning Deployment(Clarusway)
+
+12. 
