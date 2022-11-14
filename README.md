@@ -22,4 +22,6 @@
 
 11. Machine Learning Deployment(Clarusway)
 
-12. 
+12. Deep Learning(Clarusway)
+
+13. Natural Language Processing(Clarusway)
