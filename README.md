@@ -25,3 +25,5 @@
 12. Deep Learning(Clarusway)
 
 13. Natural Language Processing(Clarusway)
+
+14. Information Technology Fundamentals(Clarusway)
