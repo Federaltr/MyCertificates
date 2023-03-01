@@ -27,3 +27,7 @@
 13. Natural Language Processing(Clarusway)
 
 14. Information Technology Fundamentals(Clarusway)
+
+15. Data Science Module(Clarusway)
+
+
